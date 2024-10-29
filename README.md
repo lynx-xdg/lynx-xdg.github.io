@@ -1,1 +1,0 @@
-# lynx-xdg.github.io
